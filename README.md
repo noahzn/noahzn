@@ -1,11 +1,16 @@
-### Hi there 👋
 
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-ningzhang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ningzhang18/)](https://www.linkedin.com/in/ningzhang18/)
+[![Visits Badge](https://badges.pufler.dev/visits/noahzn/noahzn)](https:noahzn)
+-->
+
+### Hi there 👋
+🔭 I’m a PhD candidate working on UAV-based computer vision.
 <!--
 **noahzn/noahzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=noahzn)
