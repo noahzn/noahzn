@@ -1,9 +1,9 @@
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-ningzhang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ningzhang18/)](https://www.linkedin.com/in/ningzhang18/)
-[![Visits Badge](https://badges.pufler.dev/visits/noahzn/noahzn)](https:noahzn)
--->
 
+-->
+[![Visits Badge](https://badges.pufler.dev/visits/noahzn/noahzn)](https:noahzn)
 ### Hi there 👋
 🔭 I’m a PhD candidate working on UAV-based computer vision.
 <!--
