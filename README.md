@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noahzn.visitor-badge)
 ### Hi there 👋
-🔭 I’m a PhD candidate working on UAV-based computer vision.
+🔭 I’m a Research Engineer working on UAV-based computer vision.
 <!--
 **noahzn/noahzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
